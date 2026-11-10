@@ -6,7 +6,7 @@ int main(void){
     printf("Digite seu nome: \n");
     scanf("%s", nome);
 
-    printf("Ola" %s\n, nome);
+    printf("Ola %s\n", nome);
 
     return 0;
 }
